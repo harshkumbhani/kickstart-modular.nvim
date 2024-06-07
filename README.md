@@ -62,7 +62,7 @@ git clone https://github.com/dam9000/kickstart-modular.nvim.git "${XDG_CONFIG_HO
 If you're using `cmd.exe`:
 
 ```
-git clone https://github.com/dam9000/kickstart-modular.nvim.git %userprofile%\AppData\Local\nvim\
+git clone https://github.com/harshkumbhani/kickstart-modular.nvim.git %userprofile%\AppData\Local\nvim\
 ```
 
 If you're using `powershell.exe`
